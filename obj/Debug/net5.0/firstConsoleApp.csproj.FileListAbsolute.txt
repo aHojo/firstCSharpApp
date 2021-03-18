@@ -1,0 +1,16 @@
+/workspaces/firstConsoleApp/bin/Debug/net5.0/firstConsoleApp
+/workspaces/firstConsoleApp/bin/Debug/net5.0/firstConsoleApp.deps.json
+/workspaces/firstConsoleApp/bin/Debug/net5.0/firstConsoleApp.runtimeconfig.json
+/workspaces/firstConsoleApp/bin/Debug/net5.0/firstConsoleApp.runtimeconfig.dev.json
+/workspaces/firstConsoleApp/bin/Debug/net5.0/firstConsoleApp.dll
+/workspaces/firstConsoleApp/bin/Debug/net5.0/ref/firstConsoleApp.dll
+/workspaces/firstConsoleApp/bin/Debug/net5.0/firstConsoleApp.pdb
+/workspaces/firstConsoleApp/obj/Debug/net5.0/firstConsoleApp.csprojAssemblyReference.cache
+/workspaces/firstConsoleApp/obj/Debug/net5.0/firstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/firstConsoleApp/obj/Debug/net5.0/firstConsoleApp.AssemblyInfoInputs.cache
+/workspaces/firstConsoleApp/obj/Debug/net5.0/firstConsoleApp.AssemblyInfo.cs
+/workspaces/firstConsoleApp/obj/Debug/net5.0/firstConsoleApp.csproj.CoreCompileInputs.cache
+/workspaces/firstConsoleApp/obj/Debug/net5.0/firstConsoleApp.dll
+/workspaces/firstConsoleApp/obj/Debug/net5.0/ref/firstConsoleApp.dll
+/workspaces/firstConsoleApp/obj/Debug/net5.0/firstConsoleApp.pdb
+/workspaces/firstConsoleApp/obj/Debug/net5.0/firstConsoleApp.genruntimeconfig.cache
